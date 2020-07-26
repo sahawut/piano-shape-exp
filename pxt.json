@@ -1,0 +1,21 @@
+{
+    "name": "piano shape exp",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "piano": "github:lzty634158/yb_piano#1d41edbd2943991001235a3be544b8796b2b0d72"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
